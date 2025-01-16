@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PRIYANSHUSETHI
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning C language and anything related to tech
-- 💞️ I’m looking to collaborate on anything that can help and boost my knowledge in the IT sector
-- 📫 How to reach me: reach me on insta @priyanshus_2002 or at twitter @Priyanshu_s2002
+- 👀 I’m interested in Machine Learning and it's implications 
+- 🌱 I’m currently learning Python language and Machine learning
+- 💞️ I’m looking to collaborate on anything that can help and boost my knowledge about python, data analysis and data science
+- 📫 How to reach me: reach me on linkedin @ https://www.linkedin.com/in/priyanshu-sethi-bitsh/
 
 <!---
 PRIYANSHUSETHI/PRIYANSHUSETHI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
